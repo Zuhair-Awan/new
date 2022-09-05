@@ -1,0 +1,75 @@
+
+body{
+    background: url(../img/jonny-gios-LjO3fUdHMs4-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+
+    
+    
+}
+.main-con{
+    transform: translate(0%,50%);
+}
+.main{
+    background:  rgba(0, 0, 0, 0.822);
+    height: 500px;
+    width: 400px;
+    border-radius:  15px;
+    border-bottom: 2px solid white;
+    border-top: 2px solid white;
+    border-left: 2px solid white;
+    border-right:  2px solid white;
+    justify-content: space-between;
+    text-align: center;
+    
+    margin-left: 450px;
+    color: white;
+    font-size: 40px;
+  
+}
+.main3{
+    margin-top: -380px;
+    margin-left: 500px;
+    color: white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+input{
+    
+    border-radius: 20px;
+    height: 33px;
+    border-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 50px;
+}
+button{
+    margin-top: 80px;
+    margin-left: 90px;
+    height: 30px;
+    width: 130px;
+    border-radius: 20px;
+    background-color: rgb(74, 144, 248);
+    color: white;
+    font-size: 17px;
+    height: 35px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
+h3{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+margin-top: 40px;
+;
+border-bottom: 2px solid white;
+
+}
+button:hover{
+
+ box-shadow:  1px 2px  20px 5px rgb(236, 229, 229);
+  cursor: pointer;
+}
+h4{
+    margin-left:  50px;
+}
+
